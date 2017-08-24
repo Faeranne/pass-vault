@@ -1,0 +1,23 @@
+{
+  "name": "pass-vault",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmakeit/pass-vault.git"
+  },
+  "author": "Blixa Morgan <blixa@projectmakeit.com> (MrMakeIt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmakeit/pass-vault/issues"
+  },
+  "homepage": "https://github.com/mrmakeit/pass-vault#readme",
+  "dependencies": {
+    "oled-menu": "^1.0.0",
+    "rpio": "^0.9.17"
+  }
+}
